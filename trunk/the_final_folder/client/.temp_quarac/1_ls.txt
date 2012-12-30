@@ -1,0 +1,11 @@
+chord_test2.pdf
+chord_test.pdf
+heart_test2.pdf
+heart_test.pdf
+heart.txt
+homer_odyssesy.txt
+homer.txt
+road_test.txt
+road.txt
+scarlet_test.txt
+testDir/

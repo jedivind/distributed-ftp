@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/test/fixtures/users.yml
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/test/fixtures/.gitkeep
+END
+servers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/test/fixtures/servers.yml
+END
+domains.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/test/fixtures/domains.yml
+END

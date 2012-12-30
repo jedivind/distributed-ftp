@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/distributed-ftp/!svn/ver/174/trunk/the_final_folder/website
+END
+.quarac_config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/distributed-ftp/!svn/ver/165/trunk/the_final_folder/website/.quarac_config
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/README.rdoc
+END
+groupA.jks
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupA.jks
+END
+groupA.crt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupA.crt
+END
+groupA.key
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupA.key
+END
+groupB.jks
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/174/trunk/the_final_folder/website/groupB.jks
+END
+groupB.key
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupB.key
+END
+groupC.jks
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupC.jks
+END
+groupB.crt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupB.crt
+END
+groupC.key
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupC.key
+END
+groupC.crt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupC.crt
+END
+config.ru
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config.ru
+END
+groupA.p12
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupA.p12
+END
+groupB.p12
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupB.p12
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/Gemfile.lock
+END
+groupC.p12
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/172/trunk/the_final_folder/website/groupC.p12
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/.gitignore
+END
+.rvmrc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/.rvmrc
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/Gemfile
+END

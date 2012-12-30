@@ -1,0 +1,801 @@
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupA/
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Attempting ls: Remote path is groupB/
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Server: Attempting to get. Remote path is 
+groupB/road.txt

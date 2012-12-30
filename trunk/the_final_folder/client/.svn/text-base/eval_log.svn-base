@@ -1,0 +1,3 @@
+#!/usr/bin/perl
+# cat log_testserver0 | perl -ne '$n = 0; while(<STDIN>){print $n++ . "\n" if($_ =~ /Attempting/);}' | tail -n 1
+# cat log_client0 | perl -ne '$n = 0; while(<STDIN>){print $n++ . "\n" if($_ =~ /LS|GET|PUT/);}' | tail -n 1

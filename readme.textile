@@ -1,0 +1,3 @@
+This will be our SVN repository for the Distributed Systems project. Everyone please checkout a copy of the repository for when we start developing.Please make a separate subdirectory under the trunk folder for each module.
+
+

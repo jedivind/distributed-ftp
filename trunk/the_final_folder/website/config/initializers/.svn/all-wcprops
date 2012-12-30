@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers/session_store.rb
+END
+secret_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers/secret_token.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers/backtrace_silencers.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers/mime_types.rb
+END
+wrap_parameters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/config/initializers/wrap_parameters.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/distributed-ftp/!svn/ver/30/trunk/file-hashing
+END
+filehash.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/distributed-ftp/!svn/ver/18/trunk/file-hashing/filehash.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/distributed-ftp/!svn/ver/16/trunk/file-hashing/Makefile
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/distributed-ftp/!svn/ver/30/trunk/file-hashing/test.txt
+END

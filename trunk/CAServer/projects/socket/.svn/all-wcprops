@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket
+END
+client_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/client_test.vcproj
+END
+socket.sln
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/socket.sln
+END
+server_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/server_test.cpp
+END
+java_server_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/java_server_test.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Server.java
+END
+Server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Server.cpp
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Server.h
+END
+java_client_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/java_client_test.java
+END
+client_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/client_test.cpp
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Client.java
+END
+Client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Client.cpp
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Client.h
+END
+server_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/server_test.vcproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/Makefile
+END
+cl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/socket/cl.java
+END

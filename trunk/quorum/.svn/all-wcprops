@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/distributed-ftp/!svn/ver/108/trunk/quorum
+END
+4.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/distributed-ftp/!svn/ver/89/trunk/quorum/4.txt.txt
+END
+a.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/distributed-ftp/!svn/ver/89/trunk/quorum/a.exe
+END
+5.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/distributed-ftp/!svn/ver/89/trunk/quorum/5.txt.txt
+END
+service
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/distributed-ftp/!svn/ver/35/trunk/quorum/service
+END
+filehash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/30/trunk/quorum/filehash.c
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/distributed-ftp/!svn/ver/30/trunk/quorum/a.out
+END
+quorum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/43/trunk/quorum/quorum.cpp
+END
+filehash.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/30/trunk/quorum/filehash.h
+END
+output.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/distributed-ftp/!svn/ver/30/trunk/quorum/output.txt.txt
+END
+1.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/distributed-ftp/!svn/ver/88/trunk/quorum/1.txt.txt
+END
+2.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/distributed-ftp/!svn/ver/30/trunk/quorum/2.txt.txt
+END
+3.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/distributed-ftp/!svn/ver/88/trunk/quorum/3.txt.txt
+END
+output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/30/trunk/quorum/output.txt
+END
+quorum.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/distributed-ftp/!svn/ver/34/trunk/quorum/quorum.h
+END

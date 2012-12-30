@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/distributed-ftp/!svn/ver/11/jars
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/distributed-ftp/!svn/ver/11/jars/aopalliance-1.0.jar
+END
+ftplet-api-1.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/distributed-ftp/!svn/ver/11/jars/ftplet-api-1.0.5.jar
+END
+ftpserver-core-1.0.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/distributed-ftp/!svn/ver/11/jars/ftpserver-core-1.0.5.jar
+END
+mina-core-2.0.0-RC1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/distributed-ftp/!svn/ver/11/jars/mina-core-2.0.0-RC1.jar
+END
+spring-context-2.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/distributed-ftp/!svn/ver/11/jars/spring-context-2.5.5.jar
+END
+slf4j-api-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/distributed-ftp/!svn/ver/11/jars/slf4j-api-1.5.2.jar
+END
+spring-beans-2.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/distributed-ftp/!svn/ver/11/jars/spring-beans-2.5.5.jar
+END
+spring-core-2.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/distributed-ftp/!svn/ver/11/jars/spring-core-2.5.5.jar
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/distributed-ftp/!svn/ver/11/jars/README.txt
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/distributed-ftp/!svn/ver/11/jars/log4j-1.2.14.jar
+END
+jcl-over-slf4j-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/distributed-ftp/!svn/ver/11/jars/jcl-over-slf4j-1.5.2.jar
+END
+slf4j-log4j12-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/distributed-ftp/!svn/ver/11/jars/slf4j-log4j12-1.5.2.jar
+END

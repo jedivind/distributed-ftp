@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/Quorum/bin/Encryption
+END
+Communicate.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/Quorum/bin/Encryption/Communicate.class
+END
+Encrypt.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/Quorum/bin/Encryption/Encrypt.class
+END
+Skip.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/Quorum/bin/Encryption/Skip.class
+END

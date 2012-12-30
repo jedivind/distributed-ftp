@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/distributed-ftp/!svn/ver/40/trunk/client/cpp/cftp/classes/messaging
+END
+messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/distributed-ftp/!svn/ver/40/trunk/client/cpp/cftp/classes/messaging/messaging.h
+END
+messaging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/distributed-ftp/!svn/ver/40/trunk/client/cpp/cftp/classes/messaging/messaging.cpp
+END

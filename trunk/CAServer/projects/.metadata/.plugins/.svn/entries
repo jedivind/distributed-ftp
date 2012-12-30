@@ -1,0 +1,91 @@
+10
+
+dir
+190
+https://subversion.assembla.com/svn/distributed-ftp/trunk/CAServer/projects/.metadata/.plugins
+https://subversion.assembla.com/svn/distributed-ftp
+
+
+
+2012-10-29T21:32:21.940004Z
+46
+rejuxst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f42a1c05-4a8e-4b1a-8e26-0390ab7237a3
+
+org.eclipse.ui.intro
+dir
+
+org.eclipse.jdt.core
+dir
+
+org.eclipse.ltk.ui.refactoring
+dir
+
+org.eclipse.core.runtime
+dir
+
+org.eclipse.ui.ide
+dir
+
+org.eclipse.cdt.make.core
+dir
+
+org.eclipse.debug.core
+dir
+
+org.eclipse.pde.api.tools
+dir
+
+org.eclipse.jdt.debug.ui
+dir
+
+org.eclipse.ltk.core.refactoring
+dir
+
+org.eclipse.ui.editors
+dir
+
+org.eclipse.cdt.ui
+dir
+
+org.eclipse.ui.workbench.texteditor
+dir
+
+org.eclipse.jdt.launching
+dir
+
+org.eclipse.jdt.ui
+dir
+
+org.eclipse.ui.workbench
+dir
+
+org.eclipse.pde.core
+dir
+
+org.eclipse.core.resources
+dir
+
+org.eclipse.cdt.core
+dir
+
+org.eclipse.debug.ui
+dir
+
+org.eclipse.cdt.managedbuilder.core
+dir
+

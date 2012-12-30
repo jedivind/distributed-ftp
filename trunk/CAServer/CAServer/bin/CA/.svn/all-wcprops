@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/bin/CA
+END
+CertificateAuthority.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/bin/CA/CertificateAuthority.class
+END
+Communicate.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/bin/CA/Communicate.class
+END
+Skip.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/bin/CA/Skip.class
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/distributed-ftp/!svn/ver/38/trunk/messaging/testing/cpp_server
+END
+service
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/38/trunk/messaging/testing/cpp_server/service
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/.project
+END
+server_file_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/server_file_test.cpp
+END
+server_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/server_test.cpp
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/.cproject
+END
+Server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/Server.cpp
+END
+readme.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/readme.rtf
+END
+paxos-simple.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/paxos-simple.pdf
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/Server.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/Makefile
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_server/test.txt
+END

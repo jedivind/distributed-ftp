@@ -1,0 +1,596 @@
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 4
+Attempting ls: Remote path is groupB/
+Byz Fault: File corrupted on read/write
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 4
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupA/
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupB/
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupA/
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupA/
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 4
+Attempting ls: Remote path is groupA/
+Byz Fault: File corrupted on read/write
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+Fault Code is: 4
+Attempting ls: Remote path is groupA/
+Byz Fault: File corrupted on read/write
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupA/
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 3
+Attempting ls: Remote path is groupA/
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupA/
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 4
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 4
+Attempting ls: Remote path is groupB/
+Byz Fault: File corrupted on read/write
+Fault Code is: 3
+Attempting ls: Remote path is groupA/
+Byz Fault: Return failure on success
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+java.net.SocketException: Broken pipe
+Fault Code is: 3
+Attempting ls: Remote path is groupA/
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupB/
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupA/
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 4
+Attempting ls: Remote path is groupA/
+Byz Fault: File corrupted on read/write
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupA/
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupB/
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupA/
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 4
+Attempting ls: Remote path is groupA/
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 3
+Attempting ls: Remote path is groupA/
+Byz Fault: Return failure on success
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 4
+Attempting ls: Remote path is groupB/
+Byz Fault: File corrupted on read/write
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupA/
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 4
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 4
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 4
+Attempting ls: Remote path is groupA/
+Byz Fault: File corrupted on read/write
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Fault Code is: 4
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+java.io.EOFException
+Fault Code is: 3
+Attempting ls: Remote path is groupA/
+Byz Fault: Return failure on success
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+java.io.EOFException
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 1
+Byz Fault: Creating exception to crash server
+Attempting ls: Remote path is groupA/
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+Fault Code is: 4
+Attempting ls: Remote path is groupA/
+Byz Fault: File corrupted on read/write
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 4
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Attempting ls: Remote path is groupA/
+Fault Code is: 4
+Server: Attempting to put. Remote path is groupA/road.txt
+groupA/road.txt
+Byz Fault: File corrupted on read/write
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to get. Remote path is 
+groupA/road.txt
+java.net.SocketException: Broken pipe
+java.net.SocketException: Connection reset
+java.io.EOFException
+java.io.EOFException
+Fault Code is: 3
+Attempting ls: Remote path is groupB/
+Byz Fault: Return failure on success
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 0
+Byz Fault: Entering infinite loop
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 2
+Byz Fault: Return success on failure
+Fault Code is: 3
+Server: Attempting to put. Remote path is groupB/road.txt
+groupB/road.txt
+Byz Fault: Return failure on success
+Fault Code is: 3
+Server: Attempting to get. Remote path is 
+groupB/road.txt
+Byz Fault: Return failure on success

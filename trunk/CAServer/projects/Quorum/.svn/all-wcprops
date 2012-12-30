@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/Quorum
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/Quorum/.classpath
+END
+priv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/Quorum/priv
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/Quorum/.project
+END
+pub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/Quorum/pub
+END

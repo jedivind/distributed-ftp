@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/.project
+END
+keystoreAuthenticateFile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/32/trunk/CAServer/CAServer/keystoreAuthenticateFile
+END

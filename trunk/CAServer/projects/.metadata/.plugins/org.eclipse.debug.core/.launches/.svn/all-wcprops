@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/.metadata/.plugins/org.eclipse.debug.core/.launches
+END
+javah_tool.launch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/.metadata/.plugins/org.eclipse.debug.core/.launches/javah_tool.launch
+END
+Communicate.launch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/.metadata/.plugins/org.eclipse.debug.core/.launches/Communicate.launch
+END
+Encrypt.launch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/.metadata/.plugins/org.eclipse.debug.core/.launches/Encrypt.launch
+END

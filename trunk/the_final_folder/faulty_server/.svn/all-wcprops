@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/distributed-ftp/!svn/ver/189/trunk/the_final_folder/faulty_server
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/distributed-ftp/!svn/ver/140/trunk/the_final_folder/faulty_server/.project
+END
+groupA.crt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/130/trunk/the_final_folder/faulty_server/groupA.crt
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/distributed-ftp/!svn/ver/188/trunk/the_final_folder/faulty_server/Server.java
+END
+Skip.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/distributed-ftp/!svn/ver/130/trunk/the_final_folder/faulty_server/Skip.java
+END
+server.jks
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/173/trunk/the_final_folder/faulty_server/server.jks
+END
+server.crt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/188/trunk/the_final_folder/faulty_server/server.crt
+END
+server.key
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/188/trunk/the_final_folder/faulty_server/server.key
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/140/trunk/the_final_folder/faulty_server/.classpath
+END
+Start.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/distributed-ftp/!svn/ver/180/trunk/the_final_folder/faulty_server/Start.class
+END
+keystoreAuthenticateFile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/distributed-ftp/!svn/ver/130/trunk/the_final_folder/faulty_server/keystoreAuthenticateFile
+END
+faulty_server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/distributed-ftp/!svn/ver/189/trunk/the_final_folder/faulty_server/faulty_server.jar
+END
+server.p12
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/188/trunk/the_final_folder/faulty_server/server.p12
+END
+Server.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/distributed-ftp/!svn/ver/188/trunk/the_final_folder/faulty_server/Server.class
+END
+Skip.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/156/trunk/the_final_folder/faulty_server/Skip.class
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/173/trunk/the_final_folder/faulty_server/Start.java
+END

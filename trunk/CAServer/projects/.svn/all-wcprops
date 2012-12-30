@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects
+END
+client.pkcs12
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/client.pkcs12
+END
+client.csr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/client.csr
+END
+client.crt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/client.crt
+END
+client.key
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/client.key
+END
+keystoreFile.pkcs12
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/keystoreFile.pkcs12
+END
+ca.csr
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/ca.csr
+END
+ca.crt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/ca.crt
+END
+ca.key
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/ca.key
+END
+keyStoreFileClient.bin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/keyStoreFileClient.bin
+END
+keyStoreFile.bin
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/46/trunk/CAServer/projects/keyStoreFile.bin
+END

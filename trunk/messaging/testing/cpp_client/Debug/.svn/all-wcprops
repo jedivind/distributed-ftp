@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug
+END
+client_test.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/client_test.d
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/objects.mk
+END
+Client.d
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/Client.d
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/sources.mk
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/makefile
+END
+client_file_test.d
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/client_file_test.d
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/cpp_client/Debug/subdir.mk
+END

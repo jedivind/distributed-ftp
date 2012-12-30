@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/distributed-ftp/!svn/ver/180/trunk/the_final_folder/ca_server
+END
+ca.p12
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/ca.p12
+END
+ca_server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/distributed-ftp/!svn/ver/180/trunk/the_final_folder/ca_server/ca_server.jar
+END
+Communicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/Communicate.java
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/distributed-ftp/!svn/ver/67/trunk/the_final_folder/ca_server/.project
+END
+Skip.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/68/trunk/the_final_folder/ca_server/Skip.java
+END
+CertificateAuthority.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/distributed-ftp/!svn/ver/180/trunk/the_final_folder/ca_server/CertificateAuthority.class
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/distributed-ftp/!svn/ver/67/trunk/the_final_folder/ca_server/.classpath
+END
+keystoreAuthenticateFile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/distributed-ftp/!svn/ver/68/trunk/the_final_folder/ca_server/keystoreAuthenticateFile
+END
+Communicate.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/distributed-ftp/!svn/ver/180/trunk/the_final_folder/ca_server/Communicate.class
+END
+ca.jks
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/ca.jks
+END
+ca.csr
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/ca.csr
+END
+ca.key
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/ca.key
+END
+ca.crt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/ca.crt
+END
+Skip.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/distributed-ftp/!svn/ver/148/trunk/the_final_folder/ca_server/Skip.class
+END
+CertificateAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/distributed-ftp/!svn/ver/170/trunk/the_final_folder/ca_server/CertificateAuthority.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/.classpath
+END
+jserver_file_test.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/jserver_file_test.class
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/.project
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/Server.java
+END
+java_server_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/java_server_test.java
+END
+paxos-simple.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/paxos-simple.pdf
+END
+Server.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/Server.class
+END
+java_server_test.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/java_server_test.class
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/test.txt
+END
+jserver_file_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/testing/java_server/jserver_file_test.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/distributed-ftp/!svn/ver/124/trunk/FTP%20server/src
+END
+ftp.jks
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/distributed-ftp/!svn/ver/8/trunk/FTP%20server/src/ftp.jks
+END
+user.props
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/distributed-ftp/!svn/ver/8/trunk/FTP%20server/src/user.props
+END
+ftp.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/distributed-ftp/!svn/ver/124/trunk/FTP%20server/src/ftp.java
+END

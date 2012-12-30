@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/distributed-ftp/!svn/ver/26/trunk/messaging/cpp
+END
+Client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/cpp/Client.cpp
+END
+Messaging.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/distributed-ftp/!svn/ver/26/trunk/messaging/cpp/Messaging.h
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/cpp/Client.h
+END
+Messaging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/distributed-ftp/!svn/ver/24/trunk/messaging/cpp/Messaging.cpp
+END

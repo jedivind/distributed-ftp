@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/db/migrate
+END
+20121209223605_create_servers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/db/migrate/20121209223605_create_servers.rb
+END
+20121207181946_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/db/migrate/20121207181946_create_users.rb
+END
+20121209225630_add_domain_name_to_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/db/migrate/20121209225630_add_domain_name_to_server.rb
+END
+20121208233229_add_userhash_id_to_user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/db/migrate/20121208233229_add_userhash_id_to_user.rb
+END
+20121209012158_add_remember_token_to_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/distributed-ftp/!svn/ver/126/trunk/the_final_folder/website/db/migrate/20121209012158_add_remember_token_to_users.rb
+END
+20121209223510_create_domains.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/distributed-ftp/!svn/ver/171/trunk/the_final_folder/website/db/migrate/20121209223510_create_domains.rb
+END
